@@ -1,0 +1,12 @@
+{
+    "ads": [
+        {
+            "image": "https://example.com/ad1.jpg",
+            "link": "https://www.youtube.com/watch?v=wTBOwE8u09w&t=57s"
+        },
+        {
+            "image": "https://example.com/ad2.jpg",
+            "link": "https://example.com/link2"
+        }
+    ]
+}
